@@ -76,7 +76,7 @@ It reflects real ICT infrastructure setups commonly used in corporate environmen
 
 You can open the full simulation using Cisco Packet Tracer:
 
-- `office-dhcp-network.pkt`
+- `[office-dhcp-network.pkt](https://github.com/BARONWILLIAMS1/packet-tracer-office-lab/blob/main/office-dhcp-network.pkt)`
 
 ---
 
